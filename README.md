@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
+### Software Engineer passionate about all things tech! I build and develop platforms/solutions which are driven by innovation, scalability and performance.
+
+### I also love to build and maintain open-source libraries and Evangelize all things Front-End.
 <!--
 **devanandb/devanandb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
